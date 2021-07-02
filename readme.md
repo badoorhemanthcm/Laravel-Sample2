@@ -1,10 +1,10 @@
 ## Sample2
 
-A Simple programme to creating whether the inputted strings can be made from the master string
+- Simple User Register/Login module 
+- Student List with Add/Edit/Delete operation
+- Gallery- Image List with Add/Edit/Delete operation
+- Access a static text file (public/sampleFile.txt) and read/write operation
 
-Example1: If a string “cat” is entered in the input string 1 then the alphabets in the master
-string allocate ‘c’,’a’,’t’ as already in use. So the next input string entered will be matched with
-the remaining characters in the master string
 
 ## About Laravel
 
